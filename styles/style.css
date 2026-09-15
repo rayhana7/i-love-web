@@ -12,6 +12,14 @@ h2 {
     color: rgb(90, 88, 71);
 }
 
+h3 {
+    font-size: 16px;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+
+
 p {
     color: rgb(0, 0, 0);
     font-style: italic;
